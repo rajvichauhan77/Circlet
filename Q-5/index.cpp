@@ -15,7 +15,7 @@ int main(){
         }
 
         for(int l=4; l>=i; l--){
-            cout << l;
+            cout << l ;
         }
          cout <<  endl;
     }
